@@ -9,6 +9,6 @@
  
 
 
-https://colab.research.google.com/drive/1NR1v4xhJpCxem_Pe7vv0wfwzmdKWqOSg?usp=sharing
+[Блокнот в Google Colab](https://colab.research.google.com/drive/1NR1v4xhJpCxem_Pe7vv0wfwzmdKWqOSg?usp=sharing)
 
 ## Дальнейшие шаги -- рекомендательная система
