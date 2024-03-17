@@ -11,7 +11,8 @@
 
 
 
-  ![image](https://github.com/zinoviev-tech/books-analytics/assets/140282696/1db4ece7-b0fa-437d-8bdf-ba8d44ae65bd)
+  ![image](https://github.com/zinoviev-tech/books-analytics/assets/140282696/9ed1c34a-d333-4e55-9f77-e987a773381d)
+
 
 
 
