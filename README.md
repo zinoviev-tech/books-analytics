@@ -5,7 +5,8 @@
 3. Для каждой книги отправил запрос в **Google Books API** и вытащил данные по любимым книгам
 4. Перевел JSON в Pandas DataFrame и начал анализ данных
 
-   ![image](https://github.com/zinoviev-tech/books-analytics/assets/140282696/8624f76e-7af8-4514-8851-0f2e56dc1937)
+  ![image](https://github.com/zinoviev-tech/books-analytics/assets/140282696/9cbcb0e4-15d2-442b-a3e7-5c11e607b565)
+
  
 
 
