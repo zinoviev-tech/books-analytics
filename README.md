@@ -6,6 +6,8 @@
 4. Перевел JSON в Pandas DataFrame и начал анализ данных
 
   ![image](https://github.com/zinoviev-tech/books-analytics/assets/140282696/9cbcb0e4-15d2-442b-a3e7-5c11e607b565)
+  ![image](https://github.com/zinoviev-tech/books-analytics/assets/140282696/cb9976ab-2af4-4a18-8272-ba8d8ed9942e)
+
 
  
 
