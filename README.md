@@ -1,4 +1,5 @@
 # Анализ любимых книг
+[Блокнот в Google Colab](https://colab.research.google.com/drive/17aoAqvgPM77rYthhLhrKbK8Ep0K8Xydd?usp=sharing)
 
 1. Заскринил список любимых книг на телефоне и считал названия и авторов с картинок — сохранил в текстовый файл
 2. Обработал текстовый файл с помощью **регулярных выражений**
@@ -14,11 +15,5 @@
   ![image](https://github.com/zinoviev-tech/books-analytics/assets/140282696/9ed1c34a-d333-4e55-9f77-e987a773381d)
 
 
-
-
- 
-
-
-[Блокнот в Google Colab](https://colab.research.google.com/drive/17aoAqvgPM77rYthhLhrKbK8Ep0K8Xydd?usp=sharing)
 
 ## Дальнейшие шаги — рекомендательная система
